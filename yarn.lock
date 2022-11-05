@@ -2894,6 +2894,11 @@ expect@^26.6.2:
     jest-message-util "^26.6.2"
     jest-regex-util "^26.0.0"
 
+expo-sms@^10.2.0:
+  version "10.2.0"
+  resolved "https://registry.yarnpkg.com/expo-sms/-/expo-sms-10.2.0.tgz#7a0eda76ff6dc0b4167fdebc587a7307a1751d90"
+  integrity sha512-CvLD/TfoG+ZarDGhz7Da0hrxJ5GLppC0F3vKh95Iu4ScexsM824Uhwx5u7GyWN4x+AbTCG7L7xi5vTMmKHQKkQ==
+
 extend-shallow@^2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/extend-shallow/-/extend-shallow-2.0.1.tgz#51af7d614ad9a9f610ea1bafbb989d6b1c56890f"
